@@ -6,6 +6,11 @@ title: Archive
 	<ul class="posts">
 
 	  {% for post in site.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="/wingsofthechorus{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    <li>
+		<li style="font-size:50px";>
+		<span>{{ post.date | date_to_string }}</span>
+		    » <a href="/wingsofthechorus{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+		</li>
+		</li>
 	  {% endfor %}
 	</ul>
