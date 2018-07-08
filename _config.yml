@@ -1,2 +1,3 @@
 name: Kyle "LMK" Jeung
 markdown: kramdown
+permalink: /wingsofthechorus/blog/:year/:month/:day/:title
