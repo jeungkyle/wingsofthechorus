@@ -25,33 +25,33 @@ h1 {
 }
 h2 {
     font-size: 1em;
-    font-family:'Calibri';
+    font-family:'Verdana';
 }
 p {
     font-size: 1.5em;
-    font-family:'Calibri';
+    font-family:'Verdana';
     line-height: 1.4em;
     color: #333;
 }
 li {
     font-size: 1.5em;
-    font-family:'Calibri';
+    font-family:'Verdana';
     line-height: 1.4em;
     color: #333;
 }
 footer {
-    font-family:'Calibri';
+    font-family:'Verdana';
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
 
 ul.posts { 
-    font-family:'Calibri';
+    font-family:'Verdana';
     margin: 20px auto 40px; 
     font-size: 1.5em;
 }
 
 ul.posts li {
-    font-family:'Calibri';
+    font-family:'Verdana';
     list-style: none;
 }
