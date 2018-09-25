@@ -1,0 +1,16 @@
+---
+layout: default
+title: Post Archive
+---
+	<h1>{{ page.title }}</h1>
+	<ul class="posts">
+
+	  {% for post in site.posts %}
+	    <li>
+		<li style="font-size:25px";>
+			<span>{{ post.date | date_to_string }}</span>
+			    » <a href="/wingsofthechorus{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+		</li>
+	    </li>
+	  {% endfor %}
+</ul>
