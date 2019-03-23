@@ -5,6 +5,8 @@ date: 2017-06-14
 categories: blog2
 ---
 
+It was brought to my attention that "shoulders don't bend that way".
+
 <h2>
   <p style="text-align:center;">
     <a href="/wingsofthechorus/archive/2017/05/29/conceptart2">Prev</a>
