@@ -6,9 +6,9 @@ date: 2018-01-19
 
 <h2>
   <p style="text-align:center;">
-    <a href="/wingsofthechorus/archive2/2019/02/21/chapter27">Prev</a>
+    <a href="/wingsofthechorus/archive2//00/00/conceptart">Prev</a>
     &nbsp;&nbsp;&nbsp;
-    <a href="/wingsofthechorus/archive2/">Next</a>
+    <a href="/wingsofthechorus/archive2/2018/01/19/conceptart2">Next</a>
   </p>
 </h2>
 
@@ -18,8 +18,8 @@ date: 2018-01-19
 
 <h2>
   <p style="text-align:center;">
-    <a href="/wingsofthechorus/archive2/2019/02/21/chapter27">Prev</a>
+    <a href="/wingsofthechorus/archive2//00/00/conceptart">Prev</a>
     &nbsp;&nbsp;&nbsp;
-    <a href="/wingsofthechorus/archive2/">Next</a>
+    <a href="/wingsofthechorus/archive2/2018/01/19/conceptart2">Next</a>
   </p>
 </h2>
