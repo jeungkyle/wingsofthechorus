@@ -7,9 +7,7 @@ categories: blog2
 
 <h2>
   <p style="text-align:center;">
-    <a href="/wingsofthechorus/archive2//00/00/conceptart">Prev</a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="/wingsofthechorus/archive2/2018/01/19/conceptart2">Next</a>
+    <a href="/wingsofthechorus/archive/2018/01/19/conceptart2">Next</a>
   </p>
 </h2>
 
@@ -19,8 +17,6 @@ categories: blog2
 
 <h2>
   <p style="text-align:center;">
-    <a href="/wingsofthechorus/archive2//00/00/conceptart">Prev</a>
-    &nbsp;&nbsp;&nbsp;
-    <a href="/wingsofthechorus/archive2/2018/01/19/conceptart2">Next</a>
+    <a href="/wingsofthechorus/archive/2018/01/19/conceptart2">Next</a>
   </p>
 </h2>
