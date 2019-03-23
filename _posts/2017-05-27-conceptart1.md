@@ -11,9 +11,13 @@ categories: blog2
   </p>
 </h2>
 
+The start of something new.
+
 <p style="text-align:center;">
   <img src="/wingsofthechorus/images/conceptart/ca1.png" width="65%" alt="image"/>
 </p>
+
+I knew I wanted to create a typical story of a boy and girl. All that remained was to flesh out their looks and personalities.
 
 <h2>
   <p style="text-align:center;">
