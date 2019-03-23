@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concept Art 8: "
+title: "Concept Art 8 "
 date: 2017-09-08
 categories: blog2
 ---
