@@ -12,13 +12,14 @@ categories: blog2
 </h2>
 
 The start of something new.
+<br>
+I knew I wanted to create a typical story of a boy and girl. But as stated in the homepage, they're also secret agents.
+An action-packed, slice-of-life, narrative directed by me. 
 
 <p style="text-align:center;">
   <img src="/wingsofthechorus/images/conceptart/ca1.png" width="65%" alt="image"/>
 </p>
 
-I knew I wanted to create a typical story of a boy and girl. But as stated in the homepage, they're also secret agents.
-An action-packed, slice-of-life, narrative directed by me. 
 <br><br>
 And I shall call this story,
 <br><br>
