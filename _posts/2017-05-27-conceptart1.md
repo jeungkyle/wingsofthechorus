@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Concept Art 1: Rough Sketches"
-date: 2017-05-29
+date: 2017-05-27
 categories: blog2
 ---
 
