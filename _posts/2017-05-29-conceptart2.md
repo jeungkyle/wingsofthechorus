@@ -5,7 +5,7 @@ date: 2017-05-29
 categories: blog2
 ---
 
-First color drawing. Originally I wanted the eye colors to be swapped as to what it is right now.
+First color drawing. Originally I wanted Rhea with red eyes and Robin with blue eyes.
 
 <h2>
   <p style="text-align:center;">
