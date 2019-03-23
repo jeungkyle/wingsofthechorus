@@ -5,6 +5,8 @@ date: 2017-06-25
 categories: blog2
 ---
 
+Monochrome Style
+
 <h2>
   <p style="text-align:center;">
     <a href="/wingsofthechorus/archive/2017/06/21/conceptart3">Prev</a>
