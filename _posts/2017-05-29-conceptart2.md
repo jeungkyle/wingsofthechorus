@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Concept Art 2: First Color
+title: "Concept Art 2: First Color"
 date: 2017-05-29
 categories: blog2
 ---
