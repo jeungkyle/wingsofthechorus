@@ -5,8 +5,6 @@ date: 2017-06-25
 categories: blog2
 ---
 
-Monochrome Style
-
 <h2>
   <p style="text-align:center;">
     <a href="/wingsofthechorus/archive/2017/06/21/conceptart3">Prev</a>
@@ -14,6 +12,8 @@ Monochrome Style
     <a href="/wingsofthechorus/archive/2017/06/27/conceptart5">Next</a>
   </p>
 </h2>
+
+Monochrome Style
 
 <p style="text-align:center;">
   <img src="/wingsofthechorus/images/conceptart/ca4.png" width="65%" alt="image"/>
