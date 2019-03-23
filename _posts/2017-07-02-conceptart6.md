@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concept Art 6 "
+title: "Concept Art 6: Hair Style 1 "
 date: 2017-07-02
 categories: blog2
 ---
