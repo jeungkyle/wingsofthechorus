@@ -17,7 +17,9 @@ The start of something new.
   <img src="/wingsofthechorus/images/conceptart/ca1.png" width="65%" alt="image"/>
 </p>
 
-I knew I wanted to create a typical story of a boy and girl. All that remained was to flesh out their looks and personalities.
+I knew I wanted to create a typical story of a boy and girl. But as stated in the homepage, they're also secret agents.
+An action-packed, slice-of-life, narrative directed by me. And it will be called,
+<p>Wings of the Chorus.</p>
 
 <h2>
   <p style="text-align:center;">
