@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concept Art 9 "
+title: "Concept Art 9: Drawn Style v2 "
 date: 2018-01-08
 categories: blog2
 ---
