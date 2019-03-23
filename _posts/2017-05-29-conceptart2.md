@@ -5,8 +5,6 @@ date: 2017-05-29
 categories: blog2
 ---
 
-First color drawing. Originally I wanted Rhea with red eyes and Robin with blue eyes.
-
 <h2>
   <p style="text-align:center;">
     <a href="/wingsofthechorus/archive/2017/05/27/conceptart1">Prev</a>
@@ -14,6 +12,8 @@ First color drawing. Originally I wanted Rhea with red eyes and Robin with blue 
     <a href="/wingsofthechorus/archive/2017/06/21/conceptart3">Next</a>
   </p>
 </h2>
+
+First color drawing. Originally I wanted Rhea with red eyes and Robin with blue eyes.
 
 <p style="text-align:center;">
   <img src="/wingsofthechorus/images/conceptart/ca2.png" width="65%" alt="image"/>
