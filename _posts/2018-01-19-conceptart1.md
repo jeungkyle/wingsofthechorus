@@ -12,7 +12,7 @@ categories: blog2
 </h2>
 
 <p style="text-align:center;">
-  <img src="/wingsofthechorus/images/conceptart/ca1.png" width="50%" alt="image"/>
+  <img src="/wingsofthechorus/images/conceptart/ca1.png" width="65%" alt="image"/>
 </p>
 
 <h2>
