@@ -1,5 +1,5 @@
 ---
-layout: post2
+layout: post
 title: "[WotC] - Concept Art 1: Rough Sketches"
 date: 2018-01-19
 categories: blog2
