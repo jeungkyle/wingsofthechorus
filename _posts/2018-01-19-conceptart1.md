@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "[WotC] - Concept Art 1: Rough Sketches"
-date: 2018-01-19
+date: 2017-05-29
 categories: blog2
 ---
 
