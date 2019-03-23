@@ -12,7 +12,7 @@ categories: blog2
 </h2>
 
 The start of something new.
-<br>
+<br><br>
 I knew I wanted to create a typical story of a boy and girl. But as stated in the homepage, they're also secret agents.
 An action-packed, slice-of-life, narrative directed by me. 
 
