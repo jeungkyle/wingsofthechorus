@@ -20,7 +20,7 @@ The start of something new.
 I knew I wanted to create a typical story of a boy and girl. But as stated in the homepage, they're also secret agents.
 An action-packed, slice-of-life, narrative directed by me. 
 <br><br>
-And it will be called,
+And I shall call this story,
 <br><br>
 Wings of the Chorus.
 
