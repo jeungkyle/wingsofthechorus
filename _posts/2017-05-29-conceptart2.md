@@ -13,8 +13,6 @@ categories: blog2
   </p>
 </h2>
 
-First color drawing. Originally I wanted Rhea with red eyes and Robin with blue eyes.
-
 <p style="text-align:center;">
   <img src="/wingsofthechorus/images/conceptart/ca2.png" width="65%" alt="image"/>
 </p>
