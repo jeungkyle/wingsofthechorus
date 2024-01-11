@@ -13,8 +13,6 @@ categories: blog2
   </p>
 </h2>
 
-Thicc legs.
-
 <p style="text-align:center;">
   <img src="/wingsofthechorus/images/conceptart/ca9.png" width="65%" alt="image"/>
 </p>
