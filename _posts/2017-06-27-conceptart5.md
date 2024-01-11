@@ -13,8 +13,6 @@ categories: blog2
   </p>
 </h2>
 
-Agent Suit designs finalized.
-
 <p style="text-align:center;">
   <img src="/wingsofthechorus/images/conceptart/ca5.png" width="65%" alt="image"/>
 </p>
