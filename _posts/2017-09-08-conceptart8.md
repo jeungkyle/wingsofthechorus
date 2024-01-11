@@ -13,8 +13,6 @@ categories: blog2
   </p>
 </h2>
 
-Pretty close to what I was looking for in terms of the style of drawing.
-
 <p style="text-align:center;">
   <img src="/wingsofthechorus/images/conceptart/ca8.png" width="65%" alt="image"/>
 </p>
