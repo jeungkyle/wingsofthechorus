@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Concept Art 4: Agent Suits v3"
+title: "Concept Art 4: Agent Suits v3 (Monochrome)"
 date: 2017-06-25
 categories: blog2
 ---
@@ -12,8 +12,6 @@ categories: blog2
     <a href="/wingsofthechorus/archive/2017/06/27/conceptart5">Next</a>
   </p>
 </h2>
-
-Monochrome Style
 
 <p style="text-align:center;">
   <img src="/wingsofthechorus/images/conceptart/ca4.png" width="65%" alt="image"/>
